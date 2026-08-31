@@ -36,13 +36,7 @@ Jalankan seluruh sel berurutan. Notebook membaca tiga file CSV dari `data/raw/`,
 ## Struktur
 
 ```
-├── data/raw/           Dataset mentah (3 CSV + studi kasus)
-├── data/processed/     Dataset bersih (dihasilkan notebook)
 ├── notebooks/          02_analisis_jne.ipynb — analisis end-to-end
-├── outputs/            Grafik hasil analisis dan file pendukung
-├── docs/               Insight, issue tree, dan panduan cleaning
-├── scripts/            Script pembantu dan referensi
-└── input/              Materi modul dan brief capstone
 ```
 
 ## Metode
